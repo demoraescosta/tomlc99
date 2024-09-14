@@ -36,3 +36,6 @@ toml_sample
 # Debug files
 *.dSYM/
 *.su
+
+# cmake
+build/
